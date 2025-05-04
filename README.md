@@ -18,7 +18,7 @@ A simple browser extension that automatically **mutes all known ads** on JioHots
 
 ## Credits
 
-This project is **heavily inspired by** [pea1bee](https://github.com/pea1bee)'s [extension](https://github.com/pea1bee/hotstar-ipl-ad-mute) that blocks/mutes specific ads on Hotstar. All core logic regarding interception and tab muting was adapted from their work, with modifications and expansion to support more ad categories and a cleaner structure.
+This project is **heavily inspired by** [pea1bee](https://github.com/pea1bee)'s [extension](https://github.com/pea1bee/hotstar-ipl-ad-mute) that mutes specific ads on Hotstar. All core logic regarding interception and tab muting was adapted from their work, with modifications and expansion to support more ad categories and a cleaner structure.
 
 ## Installation
 
@@ -27,6 +27,8 @@ Firstly,  **Clone** this repository to your computer
    ```bash
    git clone https://github.com/debnath003/Hotstar-All-IPL-Ads-Muter
    ```
+**Alternatively**, you can click the green **Code** button on the repository page, select **"Download ZIP"**, 
+and extract the downloaded folder.
 
 ### Firefox
 
