@@ -41,7 +41,7 @@ and extract the downloaded folder.
 1. Open `chrome://extensions/` in Chrome.
 2. Enable **Developer mode** (top right).
 3. Click **"Load unpacked"**.
-4. Select the `hotstar-al-ipl-ads-muter` folder.
+4. Select the `hotstar-all-ipl-ads-muter` folder.
 
 ## Caveats
 
