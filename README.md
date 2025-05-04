@@ -22,6 +22,12 @@ This project is **heavily inspired by** [pea1bee](https://github.com/pea1bee)'s 
 
 ## Installation
 
+Firstly,  **Clone** this repository to your computer 
+
+   ```bash
+   git clone https://github.com/debnath003/Hotstar-All-IPL-Ads-Muter
+   ```
+
 ### Firefox
 
 1. Open `about:debugging` in Firefox.
