@@ -33,8 +33,9 @@ and extract the downloaded folder.
 ### Firefox
 
 1. Open `about:debugging` in Firefox.
-2. Click **"Load Temporary Add-on"**.
-3. Select the `manifest.json` file from this folder.
+2. Select **"This Firefox"**.
+3. Click **"Load Temporary Add-on"**.
+4. Select the `manifest.json` file from this folder.
 
 ### Chrome
 
